@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Margherita Pizza",
+        "image": "/img/pizza1.jpg",
+        "price": 299,
+        "description": "Classic cheese and tomato pizza with fresh basil",
+        "isVeg": true
+    },
+    {
+        "id": 2,
+        "name": "Pepperoni Pizza",
+        "image": "/img/pizza2.jpg",
+        "price": 399,
+        "description": "Loaded with pepperoni and mozzarella cheese",
+        "isVeg": false
+    },
+    {
+        "id": 3,
+        "name": "Veggie Delight Pizza",
+        "image": "/img/pizza3.jpg",
+        "price": 349,
+        "description": "Fresh veggies with mozzarella cheese on classic crust",
+        "isVeg": true
+    },
+    {
+        "id": 4,
+        "name": "BBQ Chicken Pizza",
+        "image": "/img/pizza4.jpg",
+        "price": 429,
+        "description": "Grilled chicken with BBQ sauce and onions",
+        "isVeg": false
+    },
+    {
+        "id": 5,
+        "name": "Paneer Tikka Pizza",
+        "image": "/img/pizza5.jpg",
+        "price": 359,
+        "description": "Indian style paneer tikka with capsicum and onion",
+        "isVeg": true
+    },
+    {
+        "id": 6,
+        "name": "Chicken Supreme Pizza",
+        "image": "/img/pizza6.jpg",
+        "price": 459,
+        "description": "Loaded with chicken chunks, onion, and bell peppers",
+        "isVeg": false
+    },
+    {
+        "id": 7,
+        "name": "Farmhouse Pizza",
+        "image": "/img/pizza7.jpg",
+        "price": 329,
+        "description": "A delicious mix of onion, capsicum, tomato and mushrooms",
+        "isVeg": true
+    },
+    {
+        "id": 8,
+        "name": "Hawaiian Pizza",
+        "image": "/img/pizza8.jpg",
+        "price": 399,
+        "description": "Topped with ham, pineapple and mozzarella cheese",
+        "isVeg": false
+    },
+    {
+        "id": 9,
+        "name": "Cheese Burst Pizza",
+        "image": "/img/pizza9.jpg",
+        "price": 499,
+        "description": "Extra cheesy pizza with gooey mozzarella inside crust",
+        "isVeg": true
+    },
+    {
+        "id": 10,
+        "name": "Mexican Green Wave Pizza",
+        "image": "/img/pizza10.jpg",
+        "price": 379,
+        "description": "Spicy Mexican veggies with green chili and corn",
+        "isVeg": true
+    }
+]
