@@ -23,7 +23,7 @@ export default function Navbar() {
     const baseNavItems = [
         { name: "Home", href: "/pizza" },
         { name: "Menulist", href: "/menulist" },
-        { name: "Booking", href: "/booking" },
+
     ];
 
     useEffect(() => {

@@ -14,7 +14,7 @@ function page() {
     router.push("pizza")
   }, [])
   return (
-    <div>page</div>
+    <div></div>
   )
 }
 
